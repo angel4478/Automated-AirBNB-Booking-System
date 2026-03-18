@@ -1,3 +1,5 @@
+package main;
+
 public class UserAuth {
 
     public static boolean isUserAuthenticated = false;
